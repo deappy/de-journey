@@ -13,7 +13,7 @@ TCS is my first job, and production support has shown me how a bank's data platf
 ## Roadmap
 | Phase | Focus | Target |
 |---|---|---|
-| 1 | SQL, Python, Azure basics + DP-900 | Nov 2026 |
+| 1 | Linux, SQL, Python, Azure basics + DP-900 | Nov 2026 |
 | 2 | Project 1: Mandi Price Pulse (batch pipeline) | Feb 2027 |
 | 3 | Spark + Databricks Data Engineer Associate | Apr 2027 |
 | 4 | Project 2: UPI Ecosystem Lakehouse | Jun 2027 |
