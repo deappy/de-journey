@@ -32,10 +32,10 @@ TCS is my first job, and production support has shown me how a bank's data platf
 - [ ] UPI Ecosystem Lakehouse: link coming soon
 - [ ] PayRecon: link coming soon
 
-## Weekly log
-| Week | What I learned | What was hard / open question |
+## daily log
+| day | What I learned | What was hard / open question |
 |---|---|---|
-| 1 | Core data concepts; servers, data centres, cloud, regions and availability zones | Why cloud providers split regions into zones (answer: fault isolation, so one zone failing doesn't take down your app) |
+| 1 | Core concept or command learned, e.g., Linux distribution families (Red Hat, SUSE, Debian) and basic shell utilities like echo, whoami, and id | Specific command syntax, package manager differences, or concept that needs review |
 
 ## Connect
 - LinkedIn: [linkedin.com/in/akshaydeappy](https://www.linkedin.com/in/akshaydeappy)
