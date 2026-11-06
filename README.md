@@ -36,6 +36,7 @@ TCS is my first job, and production support has shown me how a bank's data platf
 | day | What I learned | What was hard / open question |
 |---|---|---|
 | 1 | Core concept or command learned, e.g., Linux distribution families (Red Hat, SUSE, Debian) and basic shell utilities like echo, whoami, and id | Specific command syntax, package manager differences, or concept that needs review |
+| 2 | Learned Linux commands: cat, head, tail, diff & started preparing for databricks data engineer | will get it revised by every 5-days |
 
 ## Connect
 - LinkedIn: [linkedin.com/in/akshaydeappy](https://www.linkedin.com/in/akshaydeappy)
