@@ -16,7 +16,7 @@ SQL runs daily through every phase (1 problem a day).
 
 | Phase | Focus | Credential | Target |
 |---|---|---|---|
-| 1 | Linux + Bash | LPI Linux Essentials | 12 Dec 2026 |
+| 1 | Linux + Bash | LFCS | 12 Dec 2026 |
 | 2 | Python + pandas, Git | HackerRank Python (free) | 9 Jan 2027 |
 | 3 | Data warehousing concepts + Azure data services | DP-900 | 6 Feb 2027 |
 | 4 | Project 1: Mandi Price Pulse (Python → PostgreSQL, scheduled with Airflow) | Published repo + README | 6 Mar 2027 |
@@ -26,7 +26,7 @@ SQL runs daily through every phase (1 problem a day).
 
 ## Certifications
 - [ ] HackerRank SQL (Intermediate / Advanced)
-- [ ] LPI Linux Essentials
+- [ ] LFCS
 - [ ] HackerRank Python
 - [ ] DP-900: Azure Data Fundamentals
 - [ ] Databricks Data Engineer Associate
@@ -43,9 +43,9 @@ SQL runs daily through every phase (1 problem a day).
 ## Progress counters
 | Metric | Count |
 |---|---|
-| SQL problems solved | |
-| Days logged | |
-| Hours logged | |
+| SQL problems solved | 1 |
+| Days logged | 1 |
+| Hours logged | 1 |
 
 ## Rules I follow
 1. Log every day, even if it's 30 minutes.
@@ -55,7 +55,7 @@ SQL runs daily through every phase (1 problem a day).
 ## Daily log
 | Day | Date | Hours | What I learned | What was hard / open question | Revision due |
 |---|---|---|---|---|---|
-| 1 | | | Linux distribution families (Red Hat, SUSE, Debian); basic shell utilities: echo, whoami, id | | |
+| 1 | 26/11/2026 | 1 | Linux basic commands & started with SQL in HackerRank | queries on tools in devops | |
 | 2 | | | Linux commands: cat, head, tail, diff; started Databricks Data Engineer prep | | Day 5 |
 
 ## Connect
