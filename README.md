@@ -43,9 +43,9 @@ SQL runs daily through every phase (1 problem a day).
 ## Progress counters
 | Metric | Count |
 |---|---|
-| SQL problems solved | 1 |
-| Days logged | 1 |
-| Hours logged | 1 |
+| SQL problems solved | 2 |
+| Days logged | 2 |
+| Hours logged | 2 |
 
 ## Rules I follow
 1. Log every day, even if it's 30 minutes.
@@ -56,7 +56,7 @@ SQL runs daily through every phase (1 problem a day).
 | Day | Date | Hours | What I learned | What was hard / open question | Revision due |
 |---|---|---|---|---|---|
 | 1 | 26/11/2026 | 1 | Linux basic commands & started with SQL in HackerRank | queries on tools in devops | |
-| 2 | | | Linux commands: cat, head, tail, diff; started Databricks Data Engineer prep | | Day 5 |
+| 2 | 27/11/2026 | 1 | Linux commands | - |  |
 
 ## Connect
 - LinkedIn: [linkedin.com/in/akshaydeappy](https://www.linkedin.com/in/akshaydeappy)
